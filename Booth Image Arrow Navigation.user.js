@@ -8,6 +8,8 @@
 // @match        https://booth.pm/*
 // @match        https://*.booth.pm/*
 // @icon         https://cdn-1.webcatalog.io/catalog/booth-pm/booth-pm-icon-filled-256.png
+// @downloadURL  https://github.com/sanyaeof/Booth-Image-Arrow-Navigation/raw//main/Booth%20Image%20Arrow%20Navigation.user.js
+// @updateURL    https://github.com/sanyaeof/Booth-Image-Arrow-Navigation/raw//main/Booth%20Image%20Arrow%20Navigation.user.js
 // @grant        none
 // ==/UserScript==
 
