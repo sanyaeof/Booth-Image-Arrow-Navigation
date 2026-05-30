@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Booth Image Arrow Navigation
-// @name:ja      Boothの商品画像を←→キーで切り替え
+// @name:ja      Boothの商品画像を矢印キーで切り替え
 // @version      1.0
 // @description  BOOTHの商品画像を←→キーで切り替えができるようになります。
 // @namespace    https://twitter.com/sanya_vrc_
